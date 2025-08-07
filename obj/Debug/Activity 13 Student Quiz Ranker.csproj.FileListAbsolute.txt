@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 13 Student Quiz Ranker\bin\Debug\Activity 13 Student Quiz Ranker.exe.config
+C:\Users\HP\source\repos\Activity 13 Student Quiz Ranker\bin\Debug\Activity 13 Student Quiz Ranker.exe
+C:\Users\HP\source\repos\Activity 13 Student Quiz Ranker\bin\Debug\Activity 13 Student Quiz Ranker.pdb
+C:\Users\HP\source\repos\Activity 13 Student Quiz Ranker\obj\Debug\Activity 13 Student Quiz Ranker.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 13 Student Quiz Ranker\obj\Debug\Activity 13 Student Quiz Ranker.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 13 Student Quiz Ranker\obj\Debug\Activity 13 Student Quiz Ranker.exe
+C:\Users\HP\source\repos\Activity 13 Student Quiz Ranker\obj\Debug\Activity 13 Student Quiz Ranker.pdb
